@@ -1,0 +1,8 @@
+<div class="container">
+  <ul class="collapsible" data-collapsible="accordion">
+    <li ng-repeat="repo in vm.repos | limitTo: 10">
+      <div class="collapsible-header">{{ ::repo.full_name }}</div>
+      <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
+    </li>
+  </ul>
+</div>
