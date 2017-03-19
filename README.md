@@ -8,6 +8,7 @@ A Simple MEAN stack to kick start your new project with SASS support and Gulp wa
 * SweetAlert 2 Dialog Library Integrated with Angular
 * One of the best gulp files this side of the sun (seriously)
 * Fully setup linting configs
+* Follows JohnPapa's AngularJS style guide
 
 ### Gulpfile
 * Minifies CSS & JS (ez)

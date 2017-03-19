@@ -33,15 +33,8 @@
   }
 
   /* @ngInject */
-  function Controller(Member) {
+  function Controller() {
     var dm = this;
-
-    Member
-      .getCurrent()
-      .$promise
-      .then((member) => {
-        dm.member = member;
-      });
 
   }
 })();
