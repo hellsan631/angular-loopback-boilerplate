@@ -1,4 +1,7 @@
 # AngularJS + Loopback
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hellsan631/angular-loopback-boilerplate.svg)](https://greenkeeper.io/)
+
 A Simple MEAN stack to kick start your new project with SASS support and Gulp watch/build tasks
 
 ## Features
